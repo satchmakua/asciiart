@@ -1,7 +1,6 @@
-
-// This program making use of C array facilities and looping
-// constructs to produce simple, but scalable ASCII art.
-// The included Makefile will build the program, and provides a run rule.
+/* This program making use of C array facilities and looping
+constructs to produce simple, but scalable ASCII art.
+The included Makefile will build the program, and provide a run rule. */
 
 #include <stdio.h>
 #include "func.h"
