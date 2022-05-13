@@ -1,1 +1,1 @@
-# asciiart
+Resizable ascii art generator.
