@@ -1,7 +1,4 @@
-// Satchel Hamilton
-// CS 261
-// 1/16/2022
-// Program 2 - ASCII Art
+
 // This program making use of C array facilities and looping
 // constructs to produce simple, but scalable ASCII art.
 // The included Makefile will build the program, and provides a run rule.
